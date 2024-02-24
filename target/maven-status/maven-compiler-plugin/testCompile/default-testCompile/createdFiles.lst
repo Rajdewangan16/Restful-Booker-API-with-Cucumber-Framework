@@ -1,0 +1,8 @@
+cucumber\options\TestRunner.class
+booker\resource\Utils.class
+booker\stepdefinations\StepDefinations.class
+booker\resource\APIResource.class
+booker\pojo\CreateBooking.class
+booker\resource\TestBuildDatas.class
+booker\hooks\Hook.class
+booker\pojo\Bookingdates.class
